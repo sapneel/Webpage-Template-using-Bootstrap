@@ -1,0 +1,16 @@
+.mx-2{
+    margin-left: 100px !important;
+}
+.carousel-item img{
+    height: 300px !important;
+}
+.row img{
+    width: 310px;
+    height: 150px;
+}
+.card{
+    width: 20rem !important;
+}
+.footer-class{
+    background-color: tomato !important;
+}
